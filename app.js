@@ -55,7 +55,7 @@ function checkAns(index) {
             setTimeout(function () {
               document.querySelector("body").style.backgroundColor = "white";
             }, 200);
-            setTimeout(levelUp, 1000);
+            setTimeout(levelUp, 1500);
         }
     } else {
         h2.innerHTML = `Game Over! Your score is ${level}.<br> Press any key to start.`;

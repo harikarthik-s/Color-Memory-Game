@@ -21,14 +21,14 @@ section{
     height: 200px;
     width: 200px;
     border-radius: 20%;
-    border: 5px solid black;
+    border: 4px solid black;
     margin: 1.5rem;
     cursor: pointer;
 }
 
 .btn:hover{
     transform: scale(1.03);
-    filter: drop-shadow(0 0 10px #ffffffc3);
+    filter: drop-shadow(0 0 10px #7a7979c3);
     transition: 0.3s;
 }
 
